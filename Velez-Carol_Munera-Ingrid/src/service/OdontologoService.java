@@ -11,6 +11,10 @@ public class OdontologoService {
     private iDao<Odontologo> odontologoiDao;
 
     public OdontologoService(OdontologoDAOArray odontologoDAOArray) {
+        odontologoiDao = new OdontologoDAOArray();
+    }
+
+    public OdontologoService(OdontologoDAOH2 odontologoDAOH2) {
         odontologoiDao = new OdontologoDAOH2();
     }
 

@@ -58,9 +58,5 @@ public class OdontologoDAOH2 implements iDao<Odontologo>{
         return odontologos;
     }
 
-    @Override
-    public void guardarOdontologo(Odontologo odontologo) {
-
-    }
 
 }
