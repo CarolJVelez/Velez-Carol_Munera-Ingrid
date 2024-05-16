@@ -1,0 +1,41 @@
+[2024-05-15 21:56:13] [ INFO ] [BD:23] tabla creada con exito
+[2024-05-15 21:56:13] [ INFO ] [OdontologoDAOH2:46] Conexion establecida para listar todos los odontologos
+[2024-05-15 21:56:13] [ WARN ] [OdontologoDAOH2:58] 
+[2024-05-15 22:01:33] [ INFO ] [BD:23] tabla creada con exito
+[2024-05-15 22:01:33] [ INFO ] [OdontologoDAOH2:46] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:01:33] [ WARN ] [OdontologoDAOH2:58] 
+[2024-05-15 22:09:35] [ INFO ] [BD:23] tabla creada con exito
+[2024-05-15 22:09:35] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:34:37] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:34:37] [ WARN ] [OdontologoDAOH2:34] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 1, 1234, 'Ingrid', 'Munera')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 1, 1234, 'Ingrid', 'Munera')"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (?,?,?,?) [23505-224]
+[2024-05-15 22:34:37] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:39:07] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:39:07] [ WARN ] [OdontologoDAOH2:34] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 1, 1234, 'Ingrid', 'Munera')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 1, 1234, 'Ingrid', 'Munera')"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (?,?,?,?) [23505-224]
+[2024-05-15 22:39:07] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:39:25] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:39:25] [ WARN ] [OdontologoDAOH2:34] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 1, 1234, 'Ingrid', 'Munera')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 1, 1234, 'Ingrid', 'Munera')"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (?,?,?,?) [23505-224]
+[2024-05-15 22:39:25] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:39:52] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:39:52] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado
+[2024-05-15 22:39:52] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:41:10] [ INFO ] [BD:23] tabla creada con exito
+[2024-05-15 22:41:10] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:41:25] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:41:25] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado
+[2024-05-15 22:41:25] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:42:00] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:42:00] [ WARN ] [OdontologoDAOH2:34] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 3, 12345, 'Carol', 'Velez')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 3, 12345, 'Carol', 'Velez')"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (?,?,?,?) [23505-224]
+[2024-05-15 22:42:00] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
+[2024-05-15 22:47:28] [ INFO ] [OdontologoDAOH2:24] Conexion establecida para guardar odontologos
+[2024-05-15 22:47:28] [ WARN ] [OdontologoDAOH2:34] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 3, 12345, 'Carol', 'Velez')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(ID) ( /* key:0 */ 3, 12345, 'Carol', 'Velez')"; SQL statement:
+INSERT INTO ODONTOLOGOS VALUES (?,?,?,?) [23505-224]
+[2024-05-15 22:47:28] [ INFO ] [OdontologoDAOH2:47] Conexion establecida para listar todos los odontologos
